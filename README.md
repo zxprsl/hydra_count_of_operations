@@ -4,6 +4,7 @@ Cодержание (в примере невалидные значения к�
 
 config.ini
 
+````
 [mail]
 server = domain.local
 From = a@b.ru
@@ -20,3 +21,4 @@ mysql_db = journal
 mysql_server = 192.168.2.2
 mysql_login = admin
 mysql_pass = iuhsfd97ys5e
+````
